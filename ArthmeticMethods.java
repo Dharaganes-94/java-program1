@@ -34,19 +34,10 @@ public class ArthmeticMethods {
 		System.out.println("The multipilication value is  "+e);
 		System.out.println("The division value is  "+f);
 		System.out.println("The modulo value is  "+g);
-
-		
-		
-	
 	
 	}
 		
-		
-	
-	
-	
-
-	public static void main(String[] args) {
+	 public static void main(String[]args) {
 		// TODO Auto-generated method stub
 		ArthmeticMethods methods = new  ArthmeticMethods();
 		methods.arthmeticOperation();
@@ -55,3 +46,4 @@ public class ArthmeticMethods {
 }
 	
 }
+
